@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:name=".application.ApplicationConfig"
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Resenhow"
+        tools:targetApi="31">
+        <activity
+            android:name=".activity.ActivitySobre"
+            android:exported="false"
+            android:parentActivityName=".activity.ActivityListarResenha">
+            <!-- Parent activity meta data para suportar 4.0 e inferiores -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity.ActivityListarResenha" />
+        </activity>
+        <activity
+            android:name=".activity.ActivityResenha"
+            android:exported="false"
+            android:parentActivityName=".activity.ActivityListarResenha"/>
+        <activity
+            android:name=".activity.ActivityListarResenha"
+            android:exported="true"
+            android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

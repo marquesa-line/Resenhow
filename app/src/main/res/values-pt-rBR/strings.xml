@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RESENHOW</string>
+    <string name="titulo">Título:</string>
+    <string name="tipo">Tipo:</string>
+    <string name="filme">Filme</string>
+    <string name="serie">Série</string>
+    <string name="livro">Livro</string>
+    <string name="genero">Gênero:</string>
+    <string name="diretor_autor">Diretor e/ou Autor:</string>
+    <string name="assistido_lido">Assistido/Lido:</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="salvar">Salvar</string>
+    <string name="limpar_campos">Limpar Campos</string>
+    <string name="acao">Ação</string>
+    <string name="drama">Drama</string>
+    <string name="comedia">Comédia</string>
+    <string name="ficcao_cientifica">Ficção Científica</string>
+    <string name="fantasia">Fantasia</string>
+    <string name="romance">Romance</string>
+    <string name="suspense">Suspense</string>
+    <string name="terror">Terror</string>
+    <string name="campos_limpos">Campos limpos</string>
+    <string name="foram_selecionados">Foram selecionados</string>
+    <string name="foi_selecionado">" foi selecionado"</string>
+    <string name="titulo_vazio">O título é obrigatório!</string>
+    <string name="diretor_autor_vazio">O Diretor/Autor é obrigatório!</string>
+    <string name="nenhum_tipo_selecionado">Nenhum Tipo foi selecionado!</string>
+    <string name="nenhum_genero_selecionado">Nenhum gênero foi selecionado!</string>
+    <string name="assistido_nao_selecionado">Não foi informado se assistiu/leu!</string>
+    <string name="dados_informados_corretamente">Dados informados corretamente!</string>
+    <string name="selecionar">Selecionar</string>
+    <string name="cadastro_da_resenha">Cadastro</string>
+    <string name="edicao_da_resenha">Edição</string>
+    <string name="biblioteca_de_resenha">Biblioteca de resenhas</string>
+
+    <string name="matrix">Matrix</string>
+    <string name="breaking_bad">Breaking Bad</string>
+    <string name="senhor_dos_aneis">O Senhor dos Anéis:A Sociedade do Anel</string>
+    <string name="harry_potter">Harry Potter e a Pedra Filosofal</string>
+    <string name="game_of_thrones">Game of Thrones</string>
+    <string name="stranger_things">Stranger Things</string>
+    <string name="culpa_das_estrelas">A Culpa é das Estrelas</string>
+    <string name="codigo_da_vinci">O Código Da Vinci</string>
+    <string name="the_mandalorian">The Mandalorian</string>
+    <string name="sherlock_holmes">Sherlock Holmes</string>
+
+    <string name="lana">Lana Wachowski, Lilly Wachowski</string>
+    <string name="vince">Vince Gilligan</string>
+    <string name="peter">Peter Jackson</string>
+    <string name="jk">J.K. Rowling</string>
+    <string name="george">George R.R. Martin</string>
+    <string name="duffer">Duffer Brothers</string>
+    <string name="john">John Green</string>
+    <string name="ron">Dan Brown</string>
+    <string name="jon">Jon Favreau</string>
+    <string name="arthur">Arthur Conan Doyle</string>
+
+    <string name="filme_espaco">"Filme "</string>
+    <string name="serie_espaco">"Série "</string>
+    <string name="livro_espaco">"Livro "</string>
+    <string name="foi_clicada">" foi clicado!"</string>
+    <string name="sobre_app">App "Resenhow": \nAplicativo para crítica e classificação pessoal de filmes, séries e livros. Perfeito para quem é geek e gosta de ter suas referências na palma da mão para resenhar com os amigos.</string>
+    <string name="autoria">Autoria: Aline Marques da Silva</string>
+    <string name="nome_curso">Especialização em Tecnologia Java</string>
+    <string name="email">E-mail: aline.marqs@gmail.com</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="sobre">Sobre</string>
+    <string name="cancelar">Cancelar</string>
+
+    <string name="excluir">Excluir</string>
+    <string name="alterar">Alterar</string>
+    <string name="limpar">Limpar</string>
+    <string name="foi_clicado">" foi clicado!"</string>
+    <string name="usar_dados">Usar Dados</string>
+    <string name="azul">Azul</string>
+    <string name="vermelho">Vermelho</string>
+    <string name="submenu">Submenu</string>
+    <string name="opcao1">Opção 1</string>
+    <string name="opcao2">Opção 2</string>
+    <string name="resenha_rating">Avaliação:</string>
+    <string name="resenha_resumo">Resumo:</string>
+
+
+    <string name="nota_zero">RIP - Odiei!!!</string>
+    <string name="nota_1">1 suspiro</string>
+    <string name="nota_2">2 suspiros</string>
+    <string name="nota_3">3 suspiros</string>
+    <string name="nota_4">4 suspiros</string>
+    <string name="nota_5">5 suspiros</string>
+
+    <string name="nenhum_rating_selecionado">Nenhuma avaliação foi selecionada!</string>
+    <string name="resumo_vazio">O resumo é obrigatório!</string>
+    <string name="transparente">Transparente</string>
+    <string name="sugerir_genero">Sugerir Gênero</string>
+    <string name="ordenacao">Ordenação</string>
+    <string name="modo_noturno">Modo Noturno</string>
+    <string name="aviso">Aviso</string>
+    <string name="ok">OK</string>
+    <string name="confirmacao">Confirmação</string>
+    <string name="deseja_realmente_apagar">Deseja realmente apagar?</string>
+    <string name="cor_fundo">Cor de Fundo</string>
+</resources>

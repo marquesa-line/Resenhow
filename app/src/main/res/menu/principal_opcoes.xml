@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuItemAdicionar"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/adicionar"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menuItemOrdenacao"
+        android:icon="@android:drawable/ic_menu_sort_alphabetically"
+        android:title="@string/ordenacao"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menuItemModoNoturno"
+        android:checkable="true"
+        android:title="@string/modo_noturno" />
+    <item
+        android:id="@+id/menuItemCorFundo"
+        android:title="@string/cor_fundo">
+        <menu>
+            <group
+                android:id="@+id/groupCores"
+                android:checkableBehavior="single">
+                <item
+                    android:id="@+id/menuItemVermelho"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:title="@string/vermelho"></item>
+                <item
+                    android:id="@+id/menuItemAzul"
+                    android:title="@string/azul" />
+                <item
+                    android:id="@+id/menuItemTransparente"
+                    android:title="@string/transparente" />
+            </group>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/menuItemSobre"
+        android:title="@string/sobre" />
+
+</menu>

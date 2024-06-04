@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name" translatable="false">RESENHOW</string>
+    <string name="titulo">Title:</string>
+    <string name="tipo">Type:</string>
+    <string name="filme">Movie</string>
+    <string name="serie">Series</string>
+    <string name="livro">Book</string>
+    <string name="genero">Genre:</string>
+    <string name="diretor_autor">Director and/or Author:</string>
+    <string name="assistido_lido">Watched/Read:</string>
+    <string name="sim">Yes</string>
+    <string name="nao">No</string>
+    <string name="salvar">Save</string>
+    <string name="limpar_campos">Clear Fields</string>
+    <string name="acao">Action</string>
+    <string name="drama">Drama</string>
+    <string name="comedia">Comedy</string>
+    <string name="ficcao_cientifica">Science Fiction</string>
+    <string name="fantasia">Fantasy</string>
+    <string name="romance">Romance</string>
+    <string name="suspense">Thriller</string>
+    <string name="terror">Horror</string>
+    <string name="campos_limpos">Fields cleared</string>
+    <string name="foram_selecionados">Were selected</string>
+    <string name="foi_selecionado">" was selected"</string>
+    <string name="titulo_vazio">The title is required!</string>
+    <string name="diretor_autor_vazio">The Director/Author is required!</string>
+    <string name="nenhum_tipo_selecionado">No Type was selected!</string>
+    <string name="nenhum_genero_selecionado">No genre was selected!</string>
+    <string name="assistido_nao_selecionado">It was not informed if watched/read!</string>
+    <string name="dados_informados_corretamente">Data entered correctly!</string>
+    <string name="selecionar">Select</string>
+    <string name="cadastro_da_resenha">Registration</string>
+    <string name="edicao_da_resenha">Edition</string>
+    <string name="biblioteca_de_resenha">Review Library</string>
+
+    <string name="matrix">Matrix</string>
+    <string name="breaking_bad">Breaking Bad</string>
+    <string name="senhor_dos_aneis">The Lord of the Rings: The Fellowship of the Ring</string>
+    <string name="harry_potter">"Harry Potter and the Philosopher's Stone"</string>
+    <string name="game_of_thrones">Game of Thrones</string>
+    <string name="stranger_things">Stranger Things</string>
+    <string name="culpa_das_estrelas">The Fault in Our Stars</string>
+    <string name="codigo_da_vinci">The Da Vinci Code</string>
+    <string name="the_mandalorian">The Mandalorian</string>
+    <string name="sherlock_holmes">Sherlock Holmes</string>
+
+    <string name="lana">Lana Wachowski, Lilly Wachowski</string>
+    <string name="vince">Vince Gilligan</string>
+    <string name="peter">Peter Jackson</string>
+    <string name="jk">J.K. Rowling</string>
+    <string name="george">George R.R. Martin</string>
+    <string name="duffer">Duffer Brothers</string>
+    <string name="john">John Green</string>
+    <string name="ron">Dan Brown</string>
+    <string name="jon">Jon Favreau</string>
+    <string name="arthur">Arthur Conan Doyle</string>
+
+    <string name="filme_espaco">"Movie "</string>
+    <string name="serie_espaco">"Series "</string>
+    <string name="livro_espaco">"Book "</string>
+    <string name="foi_clicada">" was clicked!"</string>
+    <string name="sobre_app">App "Resenhow": \nApplication for personal review and rating of movies, series, and books. Perfect for geeks who like to have their references at hand to review with friends.</string>
+    <string name="autoria">Author: Aline Marques da Silva</string>
+    <string name="nome_curso">Specialization in Java Technology</string>
+    <string name="email">Email: aline.marqs@gmail.com</string>
+    <string name="adicionar">Add</string>
+    <string name="sobre">About</string>
+    <string name="cancelar">Cancel</string>
+
+    <string name="excluir">Delete</string>
+    <string name="alterar">Edit</string>
+    <string name="limpar">Clear</string>
+    <string name="foi_clicado">" was clicked!"</string>
+    <string name="usar_dados">Use Data</string>
+    <string name="azul">Blue</string>
+    <string name="vermelho">Red</string>
+    <string name="submenu">Submenu</string>
+    <string name="opcao1">Option 1</string>
+    <string name="opcao2">Option 2</string>
+    <string name="resenha_rating">Rating:</string>
+    <string name="resenha_resumo">Summary:</string>
+
+    <string name="nota_zero">RIP - I hated it!!!</string>
+    <string name="nota_1">1 sigh</string>
+    <string name="nota_2">2 sighs</string>
+    <string name="nota_3">3 sighs</string>
+    <string name="nota_4">4 sighs</string>
+    <string name="nota_5">5 sighs</string>
+
+    <string name="nenhum_rating_selecionado">No rating selected!</string>
+    <string name="resumo_vazio">The summary is required!</string>
+    <string name="transparente">Transparent</string>
+    <string name="sugerir_genero">Suggest Genre</string>
+    <string name="ordenacao">Sorting</string>
+    <string name="modo_noturno">Night Mode</string>
+    <string name="aviso">Warning</string>
+    <string name="ok">OK</string>
+    <string name="confirmacao">Confirmation</string>
+    <string name="deseja_realmente_apagar">Do you really want to delete?</string>
+    <string name="cor_fundo">Background Color</string>
+
+</resources>

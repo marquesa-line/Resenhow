@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="generos_base">
+        <item>@string/selecionar</item>
+        <item>@string/acao</item>
+        <item>@string/drama</item>
+        <item>@string/comedia</item>
+        <item>@string/ficcao_cientifica</item>
+        <item>@string/fantasia</item>
+        <item>@string/romance</item>
+        <item>@string/suspense</item>
+        <item>@string/terror</item>
+    </string-array>
+
+    <string-array name="resenha_rating_array">
+        <item>@string/selecionar</item>
+        <item>@string/nota_zero</item>
+        <item>@string/nota_1</item>
+        <item>@string/nota_2</item>
+        <item>@string/nota_3</item>
+        <item>@string/nota_4</item>
+        <item>@string/nota_5</item>
+    </string-array>
+
+    <string-array name="resenha_titulos">
+        <item>@string/matrix</item>
+        <item>@string/breaking_bad</item>
+        <item>@string/senhor_dos_aneis</item>
+        <item>@string/harry_potter</item>
+        <item>@string/game_of_thrones</item>
+        <item>@string/stranger_things</item>
+        <item>@string/culpa_das_estrelas</item>
+        <item>@string/codigo_da_vinci</item>
+        <item>@string/the_mandalorian</item>
+        <item>@string/sherlock_holmes</item>
+    </string-array>
+
+    <string-array name="resenha_tipos">
+        <item>0</item> <!-- Filme -->
+        <item>1</item> <!-- Série -->
+        <item>0</item> <!-- Filme -->
+        <item>2,0</item> <!-- Livro, Filme -->
+        <item>1,2</item> <!-- Série, Livro -->
+        <item>1</item> <!-- Série -->
+        <item>2,0</item> <!-- Livro, Filme -->
+        <item>2,0</item> <!-- Livro, Filme -->
+        <item>1</item> <!-- Série -->
+        <item>2,0</item> <!-- Livro, Filme -->
+    </string-array>
+
+    <string-array name="resenha_generos">
+        <item>@string/acao</item>
+        <item>@string/drama</item>
+        <item>@string/fantasia</item>
+        <item>@string/fantasia</item>
+        <item>@string/fantasia</item>
+        <item>@string/ficcao_cientifica</item>
+        <item>@string/drama</item>
+        <item>@string/suspense</item>
+        <item>@string/ficcao_cientifica</item>
+        <item>@string/acao</item>
+    </string-array>
+
+    <string-array name="resenha_diretores_autores">
+        <item>@string/lana</item>
+        <item>@string/vince</item>
+        <item>@string/peter</item>
+        <item>@string/jk</item>
+        <item>@string/george</item>
+        <item>@string/duffer</item>
+        <item>@string/john</item>
+        <item>@string/ron</item>
+        <item>@string/jon</item>
+        <item>@string/arthur</item>
+    </string-array>
+
+    <integer-array name="resenha_assistido_lido">
+        <item>1</item> <!-- Sim -->
+        <item>0</item> <!-- Não -->
+        <item>1</item> <!-- Sim -->
+        <item>0</item> <!-- Não -->
+        <item>1</item> <!-- Sim -->
+        <item>0</item> <!-- Não -->
+        <item>1</item> <!-- Sim -->
+        <item>0</item> <!-- Não -->
+        <item>1</item> <!-- Sim -->
+        <item>0</item> <!-- Não -->
+    </integer-array>
+</resources>
